@@ -17,5 +17,14 @@ After all, the previous price of a stock is important in predicting its future p
     
     
     
-  ## Reference -- 
+  ## Tasks performed --
+  
+    -- Getting the stock quote
+    -- EDA (Exploratory Data Analysis)
+    -- Visualizing the data
+    -- Splitting the data from train-test
+    -- Implementing the model
+    -- Checking the last closing price with your predicted values.
+    
+    
   
