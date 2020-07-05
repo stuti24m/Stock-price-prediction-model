@@ -4,7 +4,7 @@
 LSTMs are very powerful in sequence prediction problems because, they can store the past information, which is important in our case. 
 After all, the previous price of a stock is important in predicting its future price.
 
-## Import Libraries --
+## ✔Import Libraries --
 
     - import math
     - import pandas_datareader as web
@@ -17,7 +17,7 @@ After all, the previous price of a stock is important in predicting its future p
     
     
     
-  ## Tasks performed --
+  ## ✔Tasks performed --
   
     -- Getting the stock quote
     -- EDA (Exploratory Data Analysis)
