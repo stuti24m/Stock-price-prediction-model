@@ -6,4 +6,16 @@ After all, the previous price of a stock is important in predicting its future p
 
 ## Import Libraries --
 
-    - 
+    - import math
+    - import pandas_datareader as web
+    - import numpy as np
+    - import pandas as pd
+    - from sklearn.preprocessing import MinMaxScaler
+    - from tensorflow.keras.models import Sequential
+    - from tensorflow.keras.layers import Dense, LSTM
+    - import matplotlib.pyplot as plt
+    
+    
+    
+  ## Reference -- 
+  
